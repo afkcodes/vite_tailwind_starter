@@ -1,7 +1,7 @@
 function App() {
   return (
-    <div className='flex justify-center items-center min-h-screen bg-black text-gray-400'>
-      <p>vite_tailwind_starter</p>
+    <div className='flex items-center justify-center min-h-screen text-white bg-black'>
+      <p className='font-bold'>vite_tailwind_starter</p>
     </div>
   );
 }
